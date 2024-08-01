@@ -1,0 +1,9 @@
+[workspace]
+[package]
+version = "0.1.0"
+name = "sp1-groth16-aggregation"
+edition = "2021"
+
+[dependencies]
+shared = { path = "../../shared" }
+sp1-zkvm = "1.0.1"
