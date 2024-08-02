@@ -58,6 +58,11 @@ fn main() {
         .expect("failed to generate proof");
     println!("Proof generation time: {}s", now.elapsed().as_secs());
 
+    // TODO: Save proof json
+    let filename = format!("../_test_data/sp1_agg_proof_{batch_size}.json");
+    proof.save(filename).expect("failed to save proof");
+    println!("Proof saved to {}", filename);
+
     // Verify the proof.
     client.verify(&proof, &vk).expect("failed to verify proof");
 }
