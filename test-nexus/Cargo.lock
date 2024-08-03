@@ -1065,6 +1065,7 @@ dependencies = [
 name = "guest"
 version = "0.1.0"
 dependencies = [
+ "ark-bn254",
  "nexus-rt",
  "postcard",
 ]
