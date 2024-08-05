@@ -1,0 +1,385 @@
+Instance: Snarkify 4 GPU
+ZKVM: SP1, no precompiles, no GPU
+Batch size: 8
+Public input length: 4
+[2m2024-08-02T02:31:07.786365Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T02:31:09.151297Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T02:31:10.517460Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T02:31:11.905408Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T02:31:13.295596Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T02:31:14.684710Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T02:31:16.066582Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T02:31:17.449448Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T02:31:18.813895Z[0m [32m INFO[0m [1mprove_core[0m: clk = 80000000 pc = 0x21cf80
+[2m2024-08-02T02:31:19.893275Z[0m [32m INFO[0m [1mprove_core[0m: clk = 90000000 pc = 0x21cd78
+[2m2024-08-02T02:31:20.972800Z[0m [32m INFO[0m [1mprove_core[0m: clk = 100000000 pc = 0x216890
+[2m2024-08-02T02:31:22.052437Z[0m [32m INFO[0m [1mprove_core[0m: clk = 110000000 pc = 0x21d830
+[2m2024-08-02T02:31:23.136234Z[0m [32m INFO[0m [1mprove_core[0m: clk = 120000000 pc = 0x21d3dc
+[2m2024-08-02T02:31:24.214891Z[0m [32m INFO[0m [1mprove_core[0m: clk = 130000000 pc = 0x21e19c
+[2m2024-08-02T02:31:25.294505Z[0m [32m INFO[0m [1mprove_core[0m: clk = 140000000 pc = 0x21d43c
+[2m2024-08-02T02:31:26.380810Z[0m [32m INFO[0m [1mprove_core[0m: clk = 150000000 pc = 0x216bf0
+[2m2024-08-02T02:31:27.465210Z[0m [32m INFO[0m [1mprove_core[0m: clk = 160000000 pc = 0x217158
+[2m2024-08-02T02:31:28.550070Z[0m [32m INFO[0m [1mprove_core[0m: clk = 170000000 pc = 0x21cdc8
+[2m2024-08-02T02:31:29.631258Z[0m [32m INFO[0m [1mprove_core[0m: clk = 180000000 pc = 0x21d774
+[2m2024-08-02T02:31:30.716419Z[0m [32m INFO[0m [1mprove_core[0m: clk = 190000000 pc = 0x21d11c
+[2m2024-08-02T02:31:31.800210Z[0m [32m INFO[0m [1mprove_core[0m: clk = 200000000 pc = 0x24a6c8
+[2m2024-08-02T02:31:32.880316Z[0m [32m INFO[0m [1mprove_core[0m: clk = 210000000 pc = 0x21d34c
+[2m2024-08-02T02:31:33.963018Z[0m [32m INFO[0m [1mprove_core[0m: clk = 220000000 pc = 0x21dd10
+[2m2024-08-02T02:31:35.039436Z[0m [32m INFO[0m [1mprove_core[0m: clk = 230000000 pc = 0x217678
+[2m2024-08-02T02:31:36.123100Z[0m [32m INFO[0m [1mprove_core[0m: clk = 240000000 pc = 0x21c958
+[2m2024-08-02T02:31:37.202848Z[0m [32m INFO[0m [1mprove_core[0m: clk = 250000000 pc = 0x240d20
+[2m2024-08-02T02:31:38.283724Z[0m [32m INFO[0m [1mprove_core[0m: clk = 260000000 pc = 0x2292f8
+[2m2024-08-02T02:31:39.369754Z[0m [32m INFO[0m [1mprove_core[0m: clk = 270000000 pc = 0x21ced4
+[2m2024-08-02T02:31:40.443994Z[0m [32m INFO[0m [1mprove_core[0m: clk = 280000000 pc = 0x256314
+[2m2024-08-02T02:31:41.520786Z[0m [32m INFO[0m [1mprove_core[0m: clk = 290000000 pc = 0x2176dc
+[2m2024-08-02T02:31:42.598572Z[0m [32m INFO[0m [1mprove_core[0m: clk = 300000000 pc = 0x216f78
+[2m2024-08-02T02:31:43.682895Z[0m [32m INFO[0m [1mprove_core[0m: clk = 310000000 pc = 0x21d0dc
+[2m2024-08-02T02:31:44.769699Z[0m [32m INFO[0m [1mprove_core[0m: clk = 320000000 pc = 0x21e5f4
+[2m2024-08-02T02:31:45.860314Z[0m [32m INFO[0m [1mprove_core[0m: clk = 330000000 pc = 0x27130c
+[2m2024-08-02T02:31:46.961471Z[0m [32m INFO[0m [1mprove_core[0m: clk = 340000000 pc = 0x21cd4c
+[2m2024-08-02T02:31:48.052652Z[0m [32m INFO[0m [1mprove_core[0m: clk = 350000000 pc = 0x21cfd8
+[2m2024-08-02T02:31:49.122757Z[0m [32m INFO[0m [1mprove_core[0m: clk = 360000000 pc = 0x21beb8
+[2m2024-08-02T02:31:50.199158Z[0m [32m INFO[0m [1mprove_core[0m: clk = 370000000 pc = 0x2173b0
+[2m2024-08-02T02:31:51.279724Z[0m [32m INFO[0m [1mprove_core[0m: clk = 380000000 pc = 0x21d4c0
+[2m2024-08-02T02:31:52.357739Z[0m [32m INFO[0m [1mprove_core[0m: clk = 390000000 pc = 0x21cff0
+[2m2024-08-02T02:31:53.438844Z[0m [32m INFO[0m [1mprove_core[0m: clk = 400000000 pc = 0x21d948
+[2m2024-08-02T02:31:54.532202Z[0m [32m INFO[0m [1mprove_core[0m: clk = 410000000 pc = 0x216d58
+[2m2024-08-02T02:31:55.608024Z[0m [32m INFO[0m [1mprove_core[0m: clk = 420000000 pc = 0x21c950
+[2m2024-08-02T02:31:56.685958Z[0m [32m INFO[0m [1mprove_core[0m: clk = 430000000 pc = 0x21d528
+[2m2024-08-02T02:31:57.761743Z[0m [32m INFO[0m [1mprove_core[0m: clk = 440000000 pc = 0x2712cc
+[2m2024-08-02T02:31:58.741419Z[0m [32m INFO[0m [1mprove_core[0m: clk = 450000000 pc = 0x2711e8
+[2m2024-08-02T02:31:59.466508Z[0m [32m INFO[0m [1mprove_core[0m: clk = 460000000 pc = 0x21d2e0
+[2m2024-08-02T02:32:00.195256Z[0m [32m INFO[0m [1mprove_core[0m: clk = 470000000 pc = 0x21df48
+[2m2024-08-02T02:32:00.919624Z[0m [32m INFO[0m [1mprove_core[0m: clk = 480000000 pc = 0x227f34
+[2m2024-08-02T02:32:01.642426Z[0m [32m INFO[0m [1mprove_core[0m: clk = 490000000 pc = 0x248ff8
+[2m2024-08-02T02:32:02.361479Z[0m [32m INFO[0m [1mprove_core[0m: clk = 500000000 pc = 0x21e3c8
+[2m2024-08-02T02:32:03.080902Z[0m [32m INFO[0m [1mprove_core[0m: clk = 510000000 pc = 0x216aec
+[2m2024-08-02T02:32:03.803721Z[0m [32m INFO[0m [1mprove_core[0m: clk = 520000000 pc = 0x216ca0
+[2m2024-08-02T02:32:04.524752Z[0m [32m INFO[0m [1mprove_core[0m: clk = 530000000 pc = 0x21e230
+[2m2024-08-02T02:32:05.255512Z[0m [32m INFO[0m [1mprove_core[0m: clk = 540000000 pc = 0x21e218
+[2m2024-08-02T02:32:05.979628Z[0m [32m INFO[0m [1mprove_core[0m: clk = 550000000 pc = 0x228448
+[2m2024-08-02T02:32:06.701282Z[0m [32m INFO[0m [1mprove_core[0m: clk = 560000000 pc = 0x21cfe8
+[2m2024-08-02T02:32:07.418918Z[0m [32m INFO[0m [1mprove_core[0m: clk = 570000000 pc = 0x254730
+[2m2024-08-02T02:32:07.618189Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T02:32:11.340630Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T02:32:15.053752Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T02:32:18.830969Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T02:32:22.591588Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T02:32:26.366130Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T02:32:30.124300Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T02:33:11.004687Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T02:33:17.817504Z[0m [32m INFO[0m [1mprove_core[0m: clk = 80000000 pc = 0x21cf80
+[2m2024-08-02T02:33:24.837947Z[0m [32m INFO[0m [1mprove_core[0m: clk = 90000000 pc = 0x21cd78
+[2m2024-08-02T02:33:31.919545Z[0m [32m INFO[0m [1mprove_core[0m: clk = 100000000 pc = 0x216890
+[2m2024-08-02T02:33:38.230470Z[0m [32m INFO[0m [1mprove_core[0m: clk = 110000000 pc = 0x21d830
+[2m2024-08-02T02:33:44.465363Z[0m [32m INFO[0m [1mprove_core[0m: clk = 120000000 pc = 0x21d3dc
+[2m2024-08-02T02:33:50.547526Z[0m [32m INFO[0m [1mprove_core[0m: clk = 130000000 pc = 0x21e19c
+[2m2024-08-02T02:35:53.401973Z[0m [32m INFO[0m [1mprove_core[0m: clk = 140000000 pc = 0x21d43c
+[2m2024-08-02T02:36:00.372800Z[0m [32m INFO[0m [1mprove_core[0m: clk = 150000000 pc = 0x216bf0
+[2m2024-08-02T02:36:07.057556Z[0m [32m INFO[0m [1mprove_core[0m: clk = 160000000 pc = 0x217158
+[2m2024-08-02T02:36:13.108289Z[0m [32m INFO[0m [1mprove_core[0m: clk = 170000000 pc = 0x21cdc8
+[2m2024-08-02T02:36:18.800450Z[0m [32m INFO[0m [1mprove_core[0m: clk = 180000000 pc = 0x21d774
+[2m2024-08-02T02:36:23.885015Z[0m [32m INFO[0m [1mprove_core[0m: clk = 190000000 pc = 0x21d11c
+[2m2024-08-02T02:36:29.686838Z[0m [32m INFO[0m [1mprove_core[0m: clk = 200000000 pc = 0x24a6c8
+[2m2024-08-02T02:38:30.821078Z[0m [32m INFO[0m [1mprove_core[0m: clk = 210000000 pc = 0x21d34c
+[2m2024-08-02T02:38:37.072095Z[0m [32m INFO[0m [1mprove_core[0m: clk = 220000000 pc = 0x21dd10
+[2m2024-08-02T02:38:43.943636Z[0m [32m INFO[0m [1mprove_core[0m: clk = 230000000 pc = 0x217678
+[2m2024-08-02T02:38:49.205000Z[0m [32m INFO[0m [1mprove_core[0m: clk = 240000000 pc = 0x21c958
+[2m2024-08-02T02:38:55.296850Z[0m [32m INFO[0m [1mprove_core[0m: clk = 250000000 pc = 0x240d20
+[2m2024-08-02T02:39:01.448400Z[0m [32m INFO[0m [1mprove_core[0m: clk = 260000000 pc = 0x2292f8
+[2m2024-08-02T02:41:02.524870Z[0m [32m INFO[0m [1mprove_core[0m: clk = 270000000 pc = 0x21ced4
+[2m2024-08-02T02:41:09.521339Z[0m [32m INFO[0m [1mprove_core[0m: clk = 280000000 pc = 0x256314
+[2m2024-08-02T02:41:16.389359Z[0m [32m INFO[0m [1mprove_core[0m: clk = 290000000 pc = 0x2176dc
+[2m2024-08-02T02:41:22.867769Z[0m [32m INFO[0m [1mprove_core[0m: clk = 300000000 pc = 0x216f78
+[2m2024-08-02T02:41:29.229374Z[0m [32m INFO[0m [1mprove_core[0m: clk = 310000000 pc = 0x21d0dc
+[2m2024-08-02T02:41:35.347351Z[0m [32m INFO[0m [1mprove_core[0m: clk = 320000000 pc = 0x21e5f4
+[2m2024-08-02T02:41:40.073378Z[0m [32m INFO[0m [1mprove_core[0m: clk = 330000000 pc = 0x27130c
+[2m2024-08-02T02:43:40.698596Z[0m [32m INFO[0m [1mprove_core[0m: clk = 340000000 pc = 0x21cd4c
+[2m2024-08-02T02:43:46.777677Z[0m [32m INFO[0m [1mprove_core[0m: clk = 350000000 pc = 0x21cfd8
+[2m2024-08-02T02:43:54.680741Z[0m [32m INFO[0m [1mprove_core[0m: clk = 360000000 pc = 0x21beb8
+[2m2024-08-02T02:44:01.871515Z[0m [32m INFO[0m [1mprove_core[0m: clk = 370000000 pc = 0x2173b0
+[2m2024-08-02T02:44:07.434878Z[0m [32m INFO[0m [1mprove_core[0m: clk = 380000000 pc = 0x21d4c0
+[2m2024-08-02T02:44:12.021691Z[0m [32m INFO[0m [1mprove_core[0m: clk = 390000000 pc = 0x21cff0
+[2m2024-08-02T02:44:17.952417Z[0m [32m INFO[0m [1mprove_core[0m: clk = 400000000 pc = 0x21d948
+[2m2024-08-02T02:46:18.619676Z[0m [32m INFO[0m [1mprove_core[0m: clk = 410000000 pc = 0x216d58
+[2m2024-08-02T02:46:24.786429Z[0m [32m INFO[0m [1mprove_core[0m: clk = 420000000 pc = 0x21c950
+[2m2024-08-02T02:46:32.586387Z[0m [32m INFO[0m [1mprove_core[0m: clk = 430000000 pc = 0x21d528
+[2m2024-08-02T02:46:39.452620Z[0m [32m INFO[0m [1mprove_core[0m: clk = 440000000 pc = 0x2712cc
+[2m2024-08-02T02:46:45.448019Z[0m [32m INFO[0m [1mprove_core[0m: clk = 450000000 pc = 0x2711e8
+[2m2024-08-02T02:46:50.166094Z[0m [32m INFO[0m [1mprove_core[0m: clk = 460000000 pc = 0x21d2e0
+[2m2024-08-02T02:48:51.207840Z[0m [32m INFO[0m [1mprove_core[0m: clk = 470000000 pc = 0x21df48
+[2m2024-08-02T02:48:59.012314Z[0m [32m INFO[0m [1mprove_core[0m: clk = 480000000 pc = 0x227f34
+[2m2024-08-02T02:49:05.246638Z[0m [32m INFO[0m [1mprove_core[0m: clk = 490000000 pc = 0x248ff8
+[2m2024-08-02T02:49:12.177526Z[0m [32m INFO[0m [1mprove_core[0m: clk = 500000000 pc = 0x21e3c8
+[2m2024-08-02T02:49:18.193324Z[0m [32m INFO[0m [1mprove_core[0m: clk = 510000000 pc = 0x216aec
+[2m2024-08-02T02:49:23.595286Z[0m [32m INFO[0m [1mprove_core[0m: clk = 520000000 pc = 0x216ca0
+[2m2024-08-02T02:49:27.773678Z[0m [32m INFO[0m [1mprove_core[0m: clk = 530000000 pc = 0x21e230
+[2m2024-08-02T02:51:27.820447Z[0m [32m INFO[0m [1mprove_core[0m: clk = 540000000 pc = 0x21e218
+[2m2024-08-02T02:51:33.530310Z[0m [32m INFO[0m [1mprove_core[0m: clk = 550000000 pc = 0x228448
+[2m2024-08-02T02:51:39.302156Z[0m [32m INFO[0m [1mprove_core[0m: clk = 560000000 pc = 0x21cfe8
+[2m2024-08-02T02:51:45.548564Z[0m [32m INFO[0m [1mprove_core[0m: clk = 570000000 pc = 0x254730
+[2m2024-08-02T02:54:51.642073Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T02:54:55.383169Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T02:54:59.106089Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T02:55:02.858640Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T02:55:06.607037Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T02:55:10.339250Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T02:55:14.070674Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T02:55:54.725271Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T02:56:00.752265Z[0m [32m INFO[0m [1mprove_core[0m: clk = 80000000 pc = 0x21cf80
+[2m2024-08-02T02:56:07.993453Z[0m [32m INFO[0m [1mprove_core[0m: clk = 90000000 pc = 0x21cd78
+[2m2024-08-02T02:56:14.015764Z[0m [32m INFO[0m [1mprove_core[0m: clk = 100000000 pc = 0x216890
+[2m2024-08-02T02:56:20.314964Z[0m [32m INFO[0m [1mprove_core[0m: clk = 110000000 pc = 0x21d830
+[2m2024-08-02T02:56:26.491449Z[0m [32m INFO[0m [1mprove_core[0m: clk = 120000000 pc = 0x21d3dc
+[2m2024-08-02T02:56:32.634971Z[0m [32m INFO[0m [1mprove_core[0m: clk = 130000000 pc = 0x21e19c
+[2m2024-08-02T03:01:08.038583Z[0m [32m INFO[0m [1mprove_core[0m: clk = 140000000 pc = 0x21d43c
+[2m2024-08-02T03:01:13.901763Z[0m [32m INFO[0m [1mprove_core[0m: clk = 150000000 pc = 0x216bf0
+[2m2024-08-02T03:01:18.823911Z[0m [32m INFO[0m [1mprove_core[0m: clk = 160000000 pc = 0x217158
+[2m2024-08-02T03:01:26.121214Z[0m [32m INFO[0m [1mprove_core[0m: clk = 170000000 pc = 0x21cdc8
+[2m2024-08-02T03:01:31.133952Z[0m [32m INFO[0m [1mprove_core[0m: clk = 180000000 pc = 0x21d774
+[2m2024-08-02T03:01:36.848234Z[0m [32m INFO[0m [1mprove_core[0m: clk = 190000000 pc = 0x21d11c
+[2m2024-08-02T03:01:41.531829Z[0m [32m INFO[0m [1mprove_core[0m: clk = 200000000 pc = 0x24a6c8
+[2m2024-08-02T03:04:35.757524Z[0m [32m INFO[0m [1mprove_core[0m: clk = 210000000 pc = 0x21d34c
+[2m2024-08-02T03:04:42.048791Z[0m [32m INFO[0m [1mprove_core[0m: clk = 220000000 pc = 0x21dd10
+[2m2024-08-02T03:04:47.675108Z[0m [32m INFO[0m [1mprove_core[0m: clk = 230000000 pc = 0x217678
+[2m2024-08-02T03:04:56.769598Z[0m [32m INFO[0m [1mprove_core[0m: clk = 240000000 pc = 0x21c958
+[2m2024-08-02T03:05:05.414871Z[0m [32m INFO[0m [1mprove_core[0m: clk = 250000000 pc = 0x240d20
+[2m2024-08-02T03:05:12.895472Z[0m [32m INFO[0m [1mprove_core[0m: clk = 260000000 pc = 0x2292f8
+[2m2024-08-02T03:08:26.837339Z[0m [32m INFO[0m [1mprove_core[0m: clk = 270000000 pc = 0x21ced4
+[2m2024-08-02T03:08:33.411322Z[0m [32m INFO[0m [1mprove_core[0m: clk = 280000000 pc = 0x256314
+[2m2024-08-02T03:08:40.215340Z[0m [32m INFO[0m [1mprove_core[0m: clk = 290000000 pc = 0x2176dc
+[2m2024-08-02T03:08:47.445331Z[0m [32m INFO[0m [1mprove_core[0m: clk = 300000000 pc = 0x216f78
+[2m2024-08-02T03:08:53.883861Z[0m [32m INFO[0m [1mprove_core[0m: clk = 310000000 pc = 0x21d0dc
+[2m2024-08-02T03:09:00.068631Z[0m [32m INFO[0m [1mprove_core[0m: clk = 320000000 pc = 0x21e5f4
+[2m2024-08-02T03:09:06.211911Z[0m [32m INFO[0m [1mprove_core[0m: clk = 330000000 pc = 0x27130c
+[2m2024-08-02T03:14:52.905052Z[0m [32m INFO[0m [1mprove_core[0m: clk = 340000000 pc = 0x21cd4c
+[2m2024-08-02T03:14:59.956540Z[0m [32m INFO[0m [1mprove_core[0m: clk = 350000000 pc = 0x21cfd8
+[2m2024-08-02T03:15:08.015480Z[0m [32m INFO[0m [1mprove_core[0m: clk = 360000000 pc = 0x21beb8
+[2m2024-08-02T03:15:14.560865Z[0m [32m INFO[0m [1mprove_core[0m: clk = 370000000 pc = 0x2173b0
+[2m2024-08-02T03:15:20.407808Z[0m [32m INFO[0m [1mprove_core[0m: clk = 380000000 pc = 0x21d4c0
+[2m2024-08-02T03:15:26.471272Z[0m [32m INFO[0m [1mprove_core[0m: clk = 390000000 pc = 0x21cff0
+[2m2024-08-02T03:15:32.602478Z[0m [32m INFO[0m [1mprove_core[0m: clk = 400000000 pc = 0x21d948
+[2m2024-08-02T03:21:00.200949Z[0m [32m INFO[0m [1mprove_core[0m: clk = 410000000 pc = 0x216d58
+[2m2024-08-02T03:21:07.007748Z[0m [32m INFO[0m [1mprove_core[0m: clk = 420000000 pc = 0x21c950
+[2m2024-08-02T03:21:15.158188Z[0m [32m INFO[0m [1mprove_core[0m: clk = 430000000 pc = 0x21d528
+[2m2024-08-02T03:21:21.988586Z[0m [32m INFO[0m [1mprove_core[0m: clk = 440000000 pc = 0x2712cc
+[2m2024-08-02T03:21:27.948295Z[0m [32m INFO[0m [1mprove_core[0m: clk = 450000000 pc = 0x2711e8
+[2m2024-08-02T03:21:32.456527Z[0m [32m INFO[0m [1mprove_core[0m: clk = 460000000 pc = 0x21d2e0
+[2m2024-08-02T03:27:01.284383Z[0m [32m INFO[0m [1mprove_core[0m: clk = 470000000 pc = 0x21df48
+[2m2024-08-02T03:27:08.500759Z[0m [32m INFO[0m [1mprove_core[0m: clk = 480000000 pc = 0x227f34
+[2m2024-08-02T03:27:14.774231Z[0m [32m INFO[0m [1mprove_core[0m: clk = 490000000 pc = 0x248ff8
+[2m2024-08-02T03:27:21.266065Z[0m [32m INFO[0m [1mprove_core[0m: clk = 500000000 pc = 0x21e3c8
+[2m2024-08-02T03:27:26.750307Z[0m [32m INFO[0m [1mprove_core[0m: clk = 510000000 pc = 0x216aec
+[2m2024-08-02T03:27:33.569173Z[0m [32m INFO[0m [1mprove_core[0m: clk = 520000000 pc = 0x216ca0
+[2m2024-08-02T03:27:39.132123Z[0m [32m INFO[0m [1mprove_core[0m: clk = 530000000 pc = 0x21e230
+[2m2024-08-02T03:33:27.631418Z[0m [32m INFO[0m [1mprove_core[0m: clk = 540000000 pc = 0x21e218
+[2m2024-08-02T03:33:33.613306Z[0m [32m INFO[0m [1mprove_core[0m: clk = 550000000 pc = 0x228448
+[2m2024-08-02T03:33:40.175457Z[0m [32m INFO[0m [1mprove_core[0m: clk = 560000000 pc = 0x21cfe8
+[2m2024-08-02T03:33:46.112800Z[0m [32m INFO[0m [1mprove_core[0m: clk = 570000000 pc = 0x254730
+[2m2024-08-02T03:49:08.286851Z[0m [32m INFO[0m [1mprove_core[0m: execution report (totals): total_cycles=571940722, total_syscall_cycles=25
+[2m2024-08-02T03:49:08.286918Z[0m [32m INFO[0m [1mprove_core[0m: execution report (opcode counts):
+[2m2024-08-02T03:49:08.286965Z[0m [32m INFO[0m [1mprove_core[0m:   220094510 add
+[2m2024-08-02T03:49:08.286971Z[0m [32m INFO[0m [1mprove_core[0m:   113019599 sltu
+[2m2024-08-02T03:49:08.286976Z[0m [32m INFO[0m [1mprove_core[0m:    56465448 lw
+[2m2024-08-02T03:49:08.286981Z[0m [32m INFO[0m [1mprove_core[0m:    42486291 mul
+[2m2024-08-02T03:49:08.286985Z[0m [32m INFO[0m [1mprove_core[0m:    40652416 mulhu
+[2m2024-08-02T03:49:08.286990Z[0m [32m INFO[0m [1mprove_core[0m:    35812266 sw
+[2m2024-08-02T03:49:08.286995Z[0m [32m INFO[0m [1mprove_core[0m:    24250218 beq
+[2m2024-08-02T03:49:08.286999Z[0m [32m INFO[0m [1mprove_core[0m:     9664674 sub
+[2m2024-08-02T03:49:08.287004Z[0m [32m INFO[0m [1mprove_core[0m:     5995867 and
+[2m2024-08-02T03:49:08.287009Z[0m [32m INFO[0m [1mprove_core[0m:     4596105 or
+[2m2024-08-02T03:49:08.287014Z[0m [32m INFO[0m [1mprove_core[0m:     3949429 bne
+[2m2024-08-02T03:49:08.287018Z[0m [32m INFO[0m [1mprove_core[0m:     2388523 jalr
+[2m2024-08-02T03:49:08.287023Z[0m [32m INFO[0m [1mprove_core[0m:     2204722 xor
+[2m2024-08-02T03:49:08.287028Z[0m [32m INFO[0m [1mprove_core[0m:     2194245 sll
+[2m2024-08-02T03:49:08.287032Z[0m [32m INFO[0m [1mprove_core[0m:     2104920 bltu
+[2m2024-08-02T03:49:08.287037Z[0m [32m INFO[0m [1mprove_core[0m:     1980956 srl
+[2m2024-08-02T03:49:08.287042Z[0m [32m INFO[0m [1mprove_core[0m:     1515917 lbu
+[2m2024-08-02T03:49:08.287047Z[0m [32m INFO[0m [1mprove_core[0m:     1281641 auipc
+[2m2024-08-02T03:49:08.287051Z[0m [32m INFO[0m [1mprove_core[0m:     1262660 jal
+[2m2024-08-02T03:49:08.287056Z[0m [32m INFO[0m [1mprove_core[0m:        8192 slt
+[2m2024-08-02T03:49:08.287061Z[0m [32m INFO[0m [1mprove_core[0m:        7853 sb
+[2m2024-08-02T03:49:08.287065Z[0m [32m INFO[0m [1mprove_core[0m:        1676 bgeu
+[2m2024-08-02T03:49:08.287070Z[0m [32m INFO[0m [1mprove_core[0m:        1512 lb
+[2m2024-08-02T03:49:08.287093Z[0m [32m INFO[0m [1mprove_core[0m:         865 blt
+[2m2024-08-02T03:49:08.287098Z[0m [32m INFO[0m [1mprove_core[0m:         128 sh
+[2m2024-08-02T03:49:08.287103Z[0m [32m INFO[0m [1mprove_core[0m:          64 lh
+[2m2024-08-02T03:49:08.287108Z[0m [32m INFO[0m [1mprove_core[0m:          25 ecall
+[2m2024-08-02T03:49:08.287113Z[0m [32m INFO[0m [1mprove_core[0m: execution report (syscall counts):
+[2m2024-08-02T03:49:08.287143Z[0m [32m INFO[0m [1mprove_core[0m:   8 commit
+[2m2024-08-02T03:49:08.287148Z[0m [32m INFO[0m [1mprove_core[0m:   8 commit_deferred_proofs
+[2m2024-08-02T03:49:08.287153Z[0m [32m INFO[0m [1mprove_core[0m:   4 hint_len
+[2m2024-08-02T03:49:08.287158Z[0m [32m INFO[0m [1mprove_core[0m:   4 hint_read
+[2m2024-08-02T03:49:08.287162Z[0m [32m INFO[0m [1mprove_core[0m:   1 halt
+[2m2024-08-02T03:49:08.428163Z[0m [32m INFO[0m [1mprove_core[0m: summary: cycles=571940722, e2e=4680.873542956s, khz=122.19, proofSize=236322308
+[2m2024-08-02T03:49:08.435225Z[0m [33m WARN[0m [1mprove_core[0m: high cycle count, consider using the prover network for proof generation: https://docs.succinct.xyz/prover-network/setup.html
+[2m2024-08-02T03:49:08.435248Z[0m [32m INFO[0m [1mprove_core[0m: close [3mtime.busy[0m[2m=[0m4295s [3mtime.idle[0m[2m=[0m386s
+[2m2024-08-02T03:53:10.099138Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m161s [3mtime.idle[0m[2m=[0m3.33µs
+[2m2024-08-02T03:53:11.620396Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m162s [3mtime.idle[0m[2m=[0m4.11µs
+[2m2024-08-02T03:53:12.608537Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m163s [3mtime.idle[0m[2m=[0m3.49µs
+[2m2024-08-02T03:53:16.713513Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m138s [3mtime.idle[0m[2m=[0m4.77µs
+[2m2024-08-02T03:53:16.724867Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m167s [3mtime.idle[0m[2m=[0m3.63µs
+[2m2024-08-02T03:53:16.759558Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m168s [3mtime.idle[0m[2m=[0m3.64µs
+[2m2024-08-02T03:53:17.376134Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m168s [3mtime.idle[0m[2m=[0m2.98µs
+[2m2024-08-02T03:53:17.906622Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m169s [3mtime.idle[0m[2m=[0m4.08µs
+[2m2024-08-02T03:53:17.967433Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m169s [3mtime.idle[0m[2m=[0m3.06µs
+[2m2024-08-02T03:53:17.985772Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m169s [3mtime.idle[0m[2m=[0m3.48µs
+[2m2024-08-02T03:53:18.001967Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m169s [3mtime.idle[0m[2m=[0m4.46µs
+[2m2024-08-02T03:53:18.307500Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m169s [3mtime.idle[0m[2m=[0m2.43µs
+[2m2024-08-02T03:53:18.314003Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m169s [3mtime.idle[0m[2m=[0m4.40µs
+[2m2024-08-02T03:53:19.207378Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m170s [3mtime.idle[0m[2m=[0m3.49µs
+[2m2024-08-02T03:53:20.252428Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m171s [3mtime.idle[0m[2m=[0m3.80µs
+[2m2024-08-02T03:53:20.628344Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m171s [3mtime.idle[0m[2m=[0m2.22µs
+[2m2024-08-02T03:57:15.460064Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m169s [3mtime.idle[0m[2m=[0m3.71µs
+[2m2024-08-02T03:57:19.019850Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m173s [3mtime.idle[0m[2m=[0m4.16µs
+[2m2024-08-02T03:57:21.394540Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m175s [3mtime.idle[0m[2m=[0m4.03µs
+[2m2024-08-02T03:57:21.403624Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m175s [3mtime.idle[0m[2m=[0m4.01µs
+[2m2024-08-02T03:57:24.339355Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m178s [3mtime.idle[0m[2m=[0m3.50µs
+[2m2024-08-02T03:57:25.105965Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m152s [3mtime.idle[0m[2m=[0m3.91µs
+[2m2024-08-02T03:57:26.075005Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m180s [3mtime.idle[0m[2m=[0m4.52µs
+[2m2024-08-02T03:57:27.681295Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m138s [3mtime.idle[0m[2m=[0m4.61µs
+[2m2024-08-02T03:57:27.721382Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m181s [3mtime.idle[0m[2m=[0m5.22µs
+[2m2024-08-02T03:57:28.734588Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m182s [3mtime.idle[0m[2m=[0m3.05µs
+[2m2024-08-02T03:57:28.770662Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m139s [3mtime.idle[0m[2m=[0m4.20µs
+[2m2024-08-02T03:57:29.292189Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m198s [3mtime.idle[0m[2m=[0m3.69µs
+[2m2024-08-02T03:57:30.448388Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m141s [3mtime.idle[0m[2m=[0m3.23µs
+[2m2024-08-02T03:57:30.623812Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m184s [3mtime.idle[0m[2m=[0m3.77µs
+[2m2024-08-02T03:57:31.093921Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m142s [3mtime.idle[0m[2m=[0m2.84µs
+[2m2024-08-02T03:57:31.311512Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m185s [3mtime.idle[0m[2m=[0m3.52µs
+[2m2024-08-02T04:01:32.501470Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m169s [3mtime.idle[0m[2m=[0m3.62µs
+[2m2024-08-02T04:01:39.339899Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m153s [3mtime.idle[0m[2m=[0m4.58µs
+[2m2024-08-02T04:01:39.341267Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m139s [3mtime.idle[0m[2m=[0m4.56µs
+[2m2024-08-02T04:01:40.506682Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m224s [3mtime.idle[0m[2m=[0m5.02µs
+[2m2024-08-02T04:01:40.597124Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m224s [3mtime.idle[0m[2m=[0m4.61µs
+[2m2024-08-02T04:01:40.616243Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m168s [3mtime.idle[0m[2m=[0m4.19µs
+[2m2024-08-02T04:01:40.619536Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m154s [3mtime.idle[0m[2m=[0m3.96µs
+[2m2024-08-02T04:01:40.627008Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m161s [3mtime.idle[0m[2m=[0m4.46µs
+[2m2024-08-02T04:01:40.629732Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m161s [3mtime.idle[0m[2m=[0m4.76µs
+[2m2024-08-02T04:01:41.121783Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m155s [3mtime.idle[0m[2m=[0m3.96µs
+[2m2024-08-02T04:01:41.606229Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m138s [3mtime.idle[0m[2m=[0m4.56µs
+[2m2024-08-02T04:01:43.594533Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m181s [3mtime.idle[0m[2m=[0m3.70µs
+[2m2024-08-02T04:01:44.353319Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m140s [3mtime.idle[0m[2m=[0m5.25µs
+[2m2024-08-02T04:01:44.590561Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m141s [3mtime.idle[0m[2m=[0m4.32µs
+[2m2024-08-02T04:01:45.487358Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m161s [3mtime.idle[0m[2m=[0m3.67µs
+[2m2024-08-02T04:01:46.176753Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m142s [3mtime.idle[0m[2m=[0m6.86µs
+[2m2024-08-02T04:05:46.356432Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m188s [3mtime.idle[0m[2m=[0m4.95µs
+[2m2024-08-02T04:05:46.389573Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m146s [3mtime.idle[0m[2m=[0m4.02µs
+[2m2024-08-02T04:05:46.415864Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m188s [3mtime.idle[0m[2m=[0m2.39µs
+[2m2024-08-02T04:05:51.635369Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m194s [3mtime.idle[0m[2m=[0m4.13µs
+[2m2024-08-02T04:05:52.344295Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m194s [3mtime.idle[0m[2m=[0m2.80µs
+[2m2024-08-02T04:05:52.360229Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m194s [3mtime.idle[0m[2m=[0m5.43µs
+[2m2024-08-02T04:05:54.258771Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m154s [3mtime.idle[0m[2m=[0m3.01µs
+[2m2024-08-02T04:05:54.430477Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m196s [3mtime.idle[0m[2m=[0m4.34µs
+[2m2024-08-02T04:05:56.000410Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m198s [3mtime.idle[0m[2m=[0m3.42µs
+[2m2024-08-02T04:05:56.674893Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m136s [3mtime.idle[0m[2m=[0m3.86µs
+[2m2024-08-02T04:05:56.706273Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m156s [3mtime.idle[0m[2m=[0m4.63µs
+[2m2024-08-02T04:05:56.731374Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m199s [3mtime.idle[0m[2m=[0m4.19µs
+[2m2024-08-02T04:05:57.396024Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m157s [3mtime.idle[0m[2m=[0m4.31µs
+[2m2024-08-02T04:05:58.192713Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m157s [3mtime.idle[0m[2m=[0m2.93µs
+[2m2024-08-02T04:05:58.411044Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m138s [3mtime.idle[0m[2m=[0m4.89µs
+[2m2024-08-02T04:05:58.811304Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m158s [3mtime.idle[0m[2m=[0m2.49µs
+[2m2024-08-02T04:07:16.929016Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m71.6s [3mtime.idle[0m[2m=[0m3.81µs
+[2m2024-08-02T04:07:29.681597Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m76.8s [3mtime.idle[0m[2m=[0m3.96µs
+[2m2024-08-02T04:07:31.324356Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m56.5s [3mtime.idle[0m[2m=[0m3.86µs
+[2m2024-08-02T04:07:34.696529Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m59.9s [3mtime.idle[0m[2m=[0m3.48µs
+[2m2024-08-02T04:07:36.517201Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m61.7s [3mtime.idle[0m[2m=[0m4.55µs
+[2m2024-08-02T04:07:36.870500Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m62.1s [3mtime.idle[0m[2m=[0m4.47µs
+[2m2024-08-02T04:15:57.796280Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m446s [3mtime.idle[0m[2m=[0m5.43µs
+[2m2024-08-02T04:16:04.061275Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m239s [3mtime.idle[0m[2m=[0m3.44µs
+[2m2024-08-02T04:16:04.106027Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m352s [3mtime.idle[0m[2m=[0m4.25µs
+[2m2024-08-02T04:16:04.209208Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m383s [3mtime.idle[0m[2m=[0m4.85µs
+[2m2024-08-02T04:16:04.216649Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m452s [3mtime.idle[0m[2m=[0m4.95µs
+[2m2024-08-02T04:16:04.258693Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m254s [3mtime.idle[0m[2m=[0m3.77µs
+[2m2024-08-02T04:16:04.298790Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m317s [3mtime.idle[0m[2m=[0m4.09µs
+[2m2024-08-02T04:16:04.328966Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m395s [3mtime.idle[0m[2m=[0m4.05µs
+[2m2024-08-02T04:16:04.434394Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m383s [3mtime.idle[0m[2m=[0m3.83µs
+[2m2024-08-02T04:16:04.481621Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m383s [3mtime.idle[0m[2m=[0m4.32µs
+[2m2024-08-02T04:16:04.482371Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m475s [3mtime.idle[0m[2m=[0m5.31µs
+[2m2024-08-02T04:16:04.531147Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m295s [3mtime.idle[0m[2m=[0m4.48µs
+[2m2024-08-02T04:16:04.566969Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m376s [3mtime.idle[0m[2m=[0m4.30µs
+[2m2024-08-02T04:16:04.570458Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m317s [3mtime.idle[0m[2m=[0m4.08µs
+[2m2024-08-02T04:16:06.723962Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m430s [3mtime.idle[0m[2m=[0m4.18µs
+[2m2024-08-02T04:16:06.769707Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m430s [3mtime.idle[0m[2m=[0m2.90µs
+[2m2024-08-02T04:16:06.793946Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m252s [3mtime.idle[0m[2m=[0m6.61µs
+[2m2024-08-02T04:16:11.663288Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m435s [3mtime.idle[0m[2m=[0m4.52µs
+[2m2024-08-02T04:16:11.705238Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m435s [3mtime.idle[0m[2m=[0m4.10µs
+[2m2024-08-02T04:16:11.783611Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m359s [3mtime.idle[0m[2m=[0m4.12µs
+[2m2024-08-02T04:16:11.785661Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m368s [3mtime.idle[0m[2m=[0m4.61µs
+[2m2024-08-02T04:16:11.786491Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m435s [3mtime.idle[0m[2m=[0m4.16µs
+[2m2024-08-02T04:16:11.787082Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m211s [3mtime.idle[0m[2m=[0m5.70µs
+[2m2024-08-02T04:16:11.822507Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m354s [3mtime.idle[0m[2m=[0m4.64µs
+[2m2024-08-02T04:16:11.854992Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m435s [3mtime.idle[0m[2m=[0m7.94µs
+[2m2024-08-02T04:16:11.878307Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m214s [3mtime.idle[0m[2m=[0m3.76µs
+[2m2024-08-02T04:16:11.915671Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m391s [3mtime.idle[0m[2m=[0m4.44µs
+[2m2024-08-02T04:16:12.423613Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m230s [3mtime.idle[0m[2m=[0m3.76µs
+[2m2024-08-02T04:16:12.568776Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m117s [3mtime.idle[0m[2m=[0m4.86µs
+[2m2024-08-02T04:16:12.920803Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m293s [3mtime.idle[0m[2m=[0m5.90µs
+[2m2024-08-02T04:16:15.598833Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m215s [3mtime.idle[0m[2m=[0m4.45µs
+[2m2024-08-02T04:16:15.865462Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m188s [3mtime.idle[0m[2m=[0m5.06µs
+[2m2024-08-02T04:16:16.329133Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m262s [3mtime.idle[0m[2m=[0m4.65µs
+[2m2024-08-02T04:16:18.523346Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m112s [3mtime.idle[0m[2m=[0m4.29µs
+[2m2024-08-02T04:16:20.350203Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m178s [3mtime.idle[0m[2m=[0m4.42µs
+[2m2024-08-02T04:20:33.261724Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m179s [3mtime.idle[0m[2m=[0m4.24µs
+[2m2024-08-02T04:20:33.301363Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m236s [3mtime.idle[0m[2m=[0m4.86µs
+[2m2024-08-02T04:20:33.582502Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m179s [3mtime.idle[0m[2m=[0m3.67µs
+[2m2024-08-02T04:20:35.147117Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m181s [3mtime.idle[0m[2m=[0m4.49µs
+[2m2024-08-02T04:20:35.869073Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m181s [3mtime.idle[0m[2m=[0m2.32µs
+[2m2024-08-02T04:20:37.891111Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m183s [3mtime.idle[0m[2m=[0m4.51µs
+[2m2024-08-02T04:20:38.180238Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m184s [3mtime.idle[0m[2m=[0m3.09µs
+[2m2024-08-02T04:20:39.478952Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m185s [3mtime.idle[0m[2m=[0m4.54µs
+[2m2024-08-02T04:20:41.649610Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m187s [3mtime.idle[0m[2m=[0m3.78µs
+[2m2024-08-02T04:20:41.679662Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m187s [3mtime.idle[0m[2m=[0m3.98µs
+[2m2024-08-02T04:20:42.568395Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m188s [3mtime.idle[0m[2m=[0m3.96µs
+[2m2024-08-02T04:20:42.605247Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m188s [3mtime.idle[0m[2m=[0m4.03µs
+[2m2024-08-02T04:20:42.786375Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m145s [3mtime.idle[0m[2m=[0m8.16µs
+[2m2024-08-02T04:20:43.209810Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m189s [3mtime.idle[0m[2m=[0m4.18µs
+[2m2024-08-02T04:20:43.687548Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m144s [3mtime.idle[0m[2m=[0m4.16µs
+[2m2024-08-02T04:20:43.700113Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m189s [3mtime.idle[0m[2m=[0m2.16µs
+[2m2024-08-02T04:20:45.776157Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m146s [3mtime.idle[0m[2m=[0m4.73µs
+[2m2024-08-02T04:20:45.781219Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m146s [3mtime.idle[0m[2m=[0m5.25µs
+[2m2024-08-02T04:23:06.393966Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m91.5s [3mtime.idle[0m[2m=[0m2.99µs
+[2m2024-08-02T04:23:07.069390Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m92.2s [3mtime.idle[0m[2m=[0m3.57µs
+[2m2024-08-02T04:23:07.911023Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m93.1s [3mtime.idle[0m[2m=[0m3.37µs
+[2m2024-08-02T04:23:10.560127Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m95.7s [3mtime.idle[0m[2m=[0m3.81µs
+[2m2024-08-02T04:23:11.655654Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m96.8s [3mtime.idle[0m[2m=[0m2.53µs
+[2m2024-08-02T04:23:11.698398Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m96.8s [3mtime.idle[0m[2m=[0m3.47µs
+[2m2024-08-02T04:23:11.699067Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m96.8s [3mtime.idle[0m[2m=[0m2.51µs
+[2m2024-08-02T04:23:12.601766Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m97.7s [3mtime.idle[0m[2m=[0m3.27µs
+[2m2024-08-02T04:23:12.612629Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m97.8s [3mtime.idle[0m[2m=[0m4.11µs
+[2m2024-08-02T04:24:15.355144Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m55.5s [3mtime.idle[0m[2m=[0m4.09µs
+[2m2024-08-02T04:24:26.871117Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m60.0s [3mtime.idle[0m[2m=[0m3.21µs
+[2m2024-08-02T04:24:28.893762Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m46.4s [3mtime.idle[0m[2m=[0m4.80µs
+[2m2024-08-02T04:24:30.897210Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m48.4s [3mtime.idle[0m[2m=[0m4.11µs
+[2m2024-08-02T04:24:31.680508Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m49.2s [3mtime.idle[0m[2m=[0m5.21µs
+[2m2024-08-02T04:25:13.288966Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m35.4s [3mtime.idle[0m[2m=[0m3.73µs
+[2m2024-08-02T04:25:24.782680Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m34.2s [3mtime.idle[0m[2m=[0m6.81µs
+[2m2024-08-02T04:25:27.026411Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m36.5s [3mtime.idle[0m[2m=[0m4.04µs
+[2m2024-08-02T04:25:56.492124Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m23.7s [3mtime.idle[0m[2m=[0m3.24µs
+[2m2024-08-02T04:26:07.687346Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m28.0s [3mtime.idle[0m[2m=[0m3.52µs
+[2m2024-08-02T04:26:43.674019Z[0m [32m INFO[0m [1mcompress[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m25.4s [3mtime.idle[0m[2m=[0m5.67µs
+[2m2024-08-02T04:26:43.739174Z[0m [32m INFO[0m [1mcompress[0m: close [3mtime.busy[0m[2m=[0m2255s [3mtime.idle[0m[2m=[0m1.75µs
+[2m2024-08-02T04:27:38.884856Z[0m [32m INFO[0m [1mshrink[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m37.5s [3mtime.idle[0m[2m=[0m3.33µs
+[2m2024-08-02T04:27:38.905661Z[0m [32m INFO[0m [1mshrink[0m: close [3mtime.busy[0m[2m=[0m55.0s [3mtime.idle[0m[2m=[0m2.71µs
+[2m2024-08-02T04:30:00.242985Z[0m [32m INFO[0m [1mwrap_bn254[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m88.4s [3mtime.idle[0m[2m=[0m3.15µs
+[2m2024-08-02T04:30:00.442655Z[0m [32m INFO[0m [1mwrap_bn254[0m:[1mverify[0m: close [3mtime.busy[0m[2m=[0m200ms [3mtime.idle[0m[2m=[0m1.58µs
+[2m2024-08-02T04:30:00.442689Z[0m [32m INFO[0m [1mwrap_bn254[0m: Proof verified successfully
+[2m2024-08-02T04:30:00.442693Z[0m [32m INFO[0m [1mwrap_bn254[0m: Wrapping successful
+[2m2024-08-02T04:30:00.443397Z[0m [32m INFO[0m [1mwrap_bn254[0m: close [3mtime.busy[0m[2m=[0m142s [3mtime.idle[0m[2m=[0m2.14µs
+[sp1] plonk bn254 artifacts already seem to exist at /home/ubuntu/.sp1/circuits/plonk_bn254/v1.0.1. if you want to re-download them, delete the directory
+[2m2024-08-02T04:30:00.510964Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: Running prove-plonk in docker
+[90m04:31:08[0m [33mDBG[0m constraint system solver done [36mnbConstraints=[0m61167252 [36mtook=[0m24359.036696
+[90m04:34:02[0m [33mDBG[0m prover done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mnbConstraints=[0m61167252 [36mtook=[0m211511.68692
+[90m04:34:02[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m2.262406
+[2m2024-08-02T04:34:03.802169Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: Running verify-plonk in docker
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+[90m04:34:05[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m3.28266
+[2m2024-08-02T04:34:06.536134Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: close [3mtime.busy[0m[2m=[0m246s [3mtime.idle[0m[2m=[0m2.09µs
+Proof generation time: 7379s
+[sp1] plonk bn254 artifacts already seem to exist at /home/ubuntu/.sp1/circuits/plonk_bn254/v1.0.1. if you want to re-download them, delete the directory
+[2m2024-08-02T04:34:06.601425Z[0m [32m INFO[0m Running verify-plonk in docker
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+[90m04:34:08[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m3.920992

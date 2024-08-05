@@ -1,0 +1,153 @@
+Instance: Snarkify 4 GPU
+ZKVM: SP1, no precompiles, no GPU
+Batch size: 2
+Public input length: 4
+[2m2024-08-02T00:43:38.496329Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T00:43:39.864797Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T00:43:41.248972Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T00:43:42.651766Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T00:43:44.059296Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T00:43:45.467825Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T00:43:46.875667Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T00:43:48.275686Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T00:43:49.654665Z[0m [32m INFO[0m [1mprove_core[0m: clk = 80000000 pc = 0x21cf80
+[2m2024-08-02T00:43:50.742248Z[0m [32m INFO[0m [1mprove_core[0m: clk = 90000000 pc = 0x21cd78
+[2m2024-08-02T00:43:51.839139Z[0m [32m INFO[0m [1mprove_core[0m: clk = 100000000 pc = 0x216890
+[2m2024-08-02T00:43:52.933926Z[0m [32m INFO[0m [1mprove_core[0m: clk = 110000000 pc = 0x21d830
+[2m2024-08-02T00:43:54.034363Z[0m [32m INFO[0m [1mprove_core[0m: clk = 120000000 pc = 0x21d3dc
+[2m2024-08-02T00:43:55.133617Z[0m [32m INFO[0m [1mprove_core[0m: clk = 130000000 pc = 0x21e19c
+[2m2024-08-02T00:43:56.231101Z[0m [32m INFO[0m [1mprove_core[0m: clk = 140000000 pc = 0x21d43c
+[2m2024-08-02T00:43:56.598445Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T00:44:00.339990Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T00:44:04.073549Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T00:44:07.839380Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T00:44:11.596950Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T00:44:15.362285Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T00:44:19.138840Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T00:45:00.797159Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T00:45:06.999293Z[0m [32m INFO[0m [1mprove_core[0m: clk = 80000000 pc = 0x21cf80
+[2m2024-08-02T00:45:13.270460Z[0m [32m INFO[0m [1mprove_core[0m: clk = 90000000 pc = 0x21cd78
+[2m2024-08-02T00:45:20.450053Z[0m [32m INFO[0m [1mprove_core[0m: clk = 100000000 pc = 0x216890
+[2m2024-08-02T00:45:25.873396Z[0m [32m INFO[0m [1mprove_core[0m: clk = 110000000 pc = 0x21d830
+[2m2024-08-02T00:45:30.951575Z[0m [32m INFO[0m [1mprove_core[0m: clk = 120000000 pc = 0x21d3dc
+[2m2024-08-02T00:45:37.048452Z[0m [32m INFO[0m [1mprove_core[0m: clk = 130000000 pc = 0x21e19c
+[2m2024-08-02T00:47:39.923507Z[0m [32m INFO[0m [1mprove_core[0m: clk = 140000000 pc = 0x21d43c
+[2m2024-08-02T00:50:07.350433Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T00:50:11.116073Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T00:50:14.986636Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T00:50:18.776057Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T00:50:22.553943Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T00:50:26.270888Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T00:50:30.001289Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T00:51:10.642452Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T00:51:16.808501Z[0m [32m INFO[0m [1mprove_core[0m: clk = 80000000 pc = 0x21cf80
+[2m2024-08-02T00:51:23.150319Z[0m [32m INFO[0m [1mprove_core[0m: clk = 90000000 pc = 0x21cd78
+[2m2024-08-02T00:51:29.545548Z[0m [32m INFO[0m [1mprove_core[0m: clk = 100000000 pc = 0x216890
+[2m2024-08-02T00:51:35.733378Z[0m [32m INFO[0m [1mprove_core[0m: clk = 110000000 pc = 0x21d830
+[2m2024-08-02T00:51:41.880152Z[0m [32m INFO[0m [1mprove_core[0m: clk = 120000000 pc = 0x21d3dc
+[2m2024-08-02T00:51:47.905831Z[0m [32m INFO[0m [1mprove_core[0m: clk = 130000000 pc = 0x21e19c
+[2m2024-08-02T00:56:35.358306Z[0m [32m INFO[0m [1mprove_core[0m: clk = 140000000 pc = 0x21d43c
+[2m2024-08-02T01:04:47.787995Z[0m [32m INFO[0m [1mprove_core[0m: execution report (totals): total_cycles=143035732, total_syscall_cycles=25
+[2m2024-08-02T01:04:47.788083Z[0m [32m INFO[0m [1mprove_core[0m: execution report (opcode counts):
+[2m2024-08-02T01:04:47.788137Z[0m [32m INFO[0m [1mprove_core[0m:   55041500 add
+[2m2024-08-02T01:04:47.788144Z[0m [32m INFO[0m [1mprove_core[0m:   28262705 sltu
+[2m2024-08-02T01:04:47.788150Z[0m [32m INFO[0m [1mprove_core[0m:   14122026 lw
+[2m2024-08-02T01:04:47.788156Z[0m [32m INFO[0m [1mprove_core[0m:   10625355 mul
+[2m2024-08-02T01:04:47.788162Z[0m [32m INFO[0m [1mprove_core[0m:   10166668 mulhu
+[2m2024-08-02T01:04:47.788168Z[0m [32m INFO[0m [1mprove_core[0m:    8957478 sw
+[2m2024-08-02T01:04:47.788174Z[0m [32m INFO[0m [1mprove_core[0m:    6064278 beq
+[2m2024-08-02T01:04:47.788179Z[0m [32m INFO[0m [1mprove_core[0m:    2416206 sub
+[2m2024-08-02T01:04:47.788185Z[0m [32m INFO[0m [1mprove_core[0m:    1499371 and
+[2m2024-08-02T01:04:47.788191Z[0m [32m INFO[0m [1mprove_core[0m:    1150215 or
+[2m2024-08-02T01:04:47.788196Z[0m [32m INFO[0m [1mprove_core[0m:     987505 bne
+[2m2024-08-02T01:04:47.788202Z[0m [32m INFO[0m [1mprove_core[0m:     597397 jalr
+[2m2024-08-02T01:04:47.788208Z[0m [32m INFO[0m [1mprove_core[0m:     551710 xor
+[2m2024-08-02T01:04:47.788214Z[0m [32m INFO[0m [1mprove_core[0m:     549717 sll
+[2m2024-08-02T01:04:47.788220Z[0m [32m INFO[0m [1mprove_core[0m:     526386 bltu
+[2m2024-08-02T01:04:47.788225Z[0m [32m INFO[0m [1mprove_core[0m:     495758 srl
+[2m2024-08-02T01:04:47.788231Z[0m [32m INFO[0m [1mprove_core[0m:     379967 lbu
+[2m2024-08-02T01:04:47.788236Z[0m [32m INFO[0m [1mprove_core[0m:     320561 auipc
+[2m2024-08-02T01:04:47.788242Z[0m [32m INFO[0m [1mprove_core[0m:     315734 jal
+[2m2024-08-02T01:04:47.788248Z[0m [32m INFO[0m [1mprove_core[0m:       2048 slt
+[2m2024-08-02T01:04:47.788254Z[0m [32m INFO[0m [1mprove_core[0m:       1985 sb
+[2m2024-08-02T01:04:47.788260Z[0m [32m INFO[0m [1mprove_core[0m:        494 bgeu
+[2m2024-08-02T01:04:47.788265Z[0m [32m INFO[0m [1mprove_core[0m:        378 lb
+[2m2024-08-02T01:04:47.788271Z[0m [32m INFO[0m [1mprove_core[0m:        217 blt
+[2m2024-08-02T01:04:47.788276Z[0m [32m INFO[0m [1mprove_core[0m:         32 sh
+[2m2024-08-02T01:04:47.788282Z[0m [32m INFO[0m [1mprove_core[0m:         25 ecall
+[2m2024-08-02T01:04:47.788288Z[0m [32m INFO[0m [1mprove_core[0m:         16 lh
+[2m2024-08-02T01:04:47.788294Z[0m [32m INFO[0m [1mprove_core[0m: execution report (syscall counts):
+[2m2024-08-02T01:04:47.788323Z[0m [32m INFO[0m [1mprove_core[0m:   8 commit
+[2m2024-08-02T01:04:47.788330Z[0m [32m INFO[0m [1mprove_core[0m:   8 commit_deferred_proofs
+[2m2024-08-02T01:04:47.788336Z[0m [32m INFO[0m [1mprove_core[0m:   4 hint_len
+[2m2024-08-02T01:04:47.788341Z[0m [32m INFO[0m [1mprove_core[0m:   4 hint_read
+[2m2024-08-02T01:04:47.788347Z[0m [32m INFO[0m [1mprove_core[0m:   1 halt
+[2m2024-08-02T01:04:47.824946Z[0m [32m INFO[0m [1mprove_core[0m: summary: cycles=143035732, e2e=1269.678799517s, khz=112.66, proofSize=61842716
+[2m2024-08-02T01:04:47.849076Z[0m [33m WARN[0m [1mprove_core[0m: high cycle count, consider using the prover network for proof generation: https://docs.succinct.xyz/prover-network/setup.html
+[2m2024-08-02T01:04:47.849114Z[0m [32m INFO[0m [1mprove_core[0m: close [3mtime.busy[0m[2m=[0m1098s [3mtime.idle[0m[2m=[0m171s
+[2m2024-08-02T01:08:50.457779Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m175s [3mtime.idle[0m[2m=[0m3.82µs
+[2m2024-08-02T01:08:52.756464Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m161s [3mtime.idle[0m[2m=[0m4.24µs
+[2m2024-08-02T01:08:53.078296Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m178s [3mtime.idle[0m[2m=[0m2.97µs
+[2m2024-08-02T01:08:53.917741Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m162s [3mtime.idle[0m[2m=[0m3.96µs
+[2m2024-08-02T01:08:53.971862Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m162s [3mtime.idle[0m[2m=[0m4.05µs
+[2m2024-08-02T01:08:54.034055Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m163s [3mtime.idle[0m[2m=[0m3.62µs
+[2m2024-08-02T01:08:54.054829Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m167s [3mtime.idle[0m[2m=[0m3.86µs
+[2m2024-08-02T01:08:54.102925Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m138s [3mtime.idle[0m[2m=[0m4.69µs
+[2m2024-08-02T01:08:56.041961Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m136s [3mtime.idle[0m[2m=[0m4.05µs
+[2m2024-08-02T01:08:56.086023Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m148s [3mtime.idle[0m[2m=[0m5.41µs
+[2m2024-08-02T01:08:56.092294Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m165s [3mtime.idle[0m[2m=[0m4.11µs
+[2m2024-08-02T01:08:56.110578Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m148s [3mtime.idle[0m[2m=[0m4.76µs
+[2m2024-08-02T01:08:56.555012Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m148s [3mtime.idle[0m[2m=[0m3.61µs
+[2m2024-08-02T01:08:56.642228Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m165s [3mtime.idle[0m[2m=[0m4.00µs
+[2m2024-08-02T01:08:56.966452Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m165s [3mtime.idle[0m[2m=[0m3.93µs
+[2m2024-08-02T01:08:59.543536Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m140s [3mtime.idle[0m[2m=[0m3.17µs
+[2m2024-08-02T01:09:39.027160Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m33.9s [3mtime.idle[0m[2m=[0m4.12µs
+[2m2024-08-02T01:09:50.080935Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m38.6s [3mtime.idle[0m[2m=[0m4.50µs
+[2m2024-08-02T01:09:53.791317Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m33.2s [3mtime.idle[0m[2m=[0m2.85µs
+[2m2024-08-02T01:12:09.445331Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m125s [3mtime.idle[0m[2m=[0m4.10µs
+[2m2024-08-02T01:12:19.899187Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m103s [3mtime.idle[0m[2m=[0m3.47µs
+[2m2024-08-02T01:12:20.636730Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m104s [3mtime.idle[0m[2m=[0m3.81µs
+[2m2024-08-02T01:12:20.816380Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m104s [3mtime.idle[0m[2m=[0m2.86µs
+[2m2024-08-02T01:12:22.389233Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m106s [3mtime.idle[0m[2m=[0m3.79µs
+[2m2024-08-02T01:12:22.936411Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m106s [3mtime.idle[0m[2m=[0m3.50µs
+[2m2024-08-02T01:12:23.088674Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m85.2s [3mtime.idle[0m[2m=[0m3.68µs
+[2m2024-08-02T01:12:24.109194Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m108s [3mtime.idle[0m[2m=[0m2.57µs
+[2m2024-08-02T01:12:25.221466Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m87.3s [3mtime.idle[0m[2m=[0m4.25µs
+[2m2024-08-02T01:12:25.575143Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m109s [3mtime.idle[0m[2m=[0m4.05µs
+[2m2024-08-02T01:13:51.301934Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m72.5s [3mtime.idle[0m[2m=[0m3.66µs
+[2m2024-08-02T01:13:51.304826Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m54.5s [3mtime.idle[0m[2m=[0m4.19µs
+[2m2024-08-02T01:13:53.483558Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m56.7s [3mtime.idle[0m[2m=[0m3.56µs
+[2m2024-08-02T01:13:53.496535Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m56.7s [3mtime.idle[0m[2m=[0m8.69µs
+[2m2024-08-02T01:13:55.001380Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m58.2s [3mtime.idle[0m[2m=[0m3.13µs
+[2m2024-08-02T01:14:36.024627Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m34.8s [3mtime.idle[0m[2m=[0m4.22µs
+[2m2024-08-02T01:14:48.170588Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m35.8s [3mtime.idle[0m[2m=[0m3.94µs
+[2m2024-08-02T01:14:49.009501Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m36.6s [3mtime.idle[0m[2m=[0m3.57µs
+[2m2024-08-02T01:15:19.255871Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m24.3s [3mtime.idle[0m[2m=[0m3.12µs
+[2m2024-08-02T01:15:28.849460Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m27.8s [3mtime.idle[0m[2m=[0m3.45µs
+[2m2024-08-02T01:16:05.637200Z[0m [32m INFO[0m [1mcompress[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m26.0s [3mtime.idle[0m[2m=[0m3.78µs
+[2m2024-08-02T01:16:05.658097Z[0m [32m INFO[0m [1mcompress[0m: close [3mtime.busy[0m[2m=[0m678s [3mtime.idle[0m[2m=[0m2.19µs
+[2m2024-08-02T01:17:01.376097Z[0m [32m INFO[0m [1mshrink[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m37.9s [3mtime.idle[0m[2m=[0m3.22µs
+[2m2024-08-02T01:17:01.377010Z[0m [32m INFO[0m [1mshrink[0m: close [3mtime.busy[0m[2m=[0m55.6s [3mtime.idle[0m[2m=[0m2.33µs
+[2m2024-08-02T01:19:22.770306Z[0m [32m INFO[0m [1mwrap_bn254[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m88.4s [3mtime.idle[0m[2m=[0m3.55µs
+[2m2024-08-02T01:19:22.969276Z[0m [32m INFO[0m [1mwrap_bn254[0m:[1mverify[0m: close [3mtime.busy[0m[2m=[0m199ms [3mtime.idle[0m[2m=[0m1.36µs
+[2m2024-08-02T01:19:22.969293Z[0m [32m INFO[0m [1mwrap_bn254[0m: Proof verified successfully
+[2m2024-08-02T01:19:22.969298Z[0m [32m INFO[0m [1mwrap_bn254[0m: Wrapping successful
+[2m2024-08-02T01:19:22.969873Z[0m [32m INFO[0m [1mwrap_bn254[0m: close [3mtime.busy[0m[2m=[0m142s [3mtime.idle[0m[2m=[0m1.37µs
+[sp1] plonk bn254 artifacts already seem to exist at /home/ubuntu/.sp1/circuits/plonk_bn254/v1.0.1. if you want to re-download them, delete the directory
+[2m2024-08-02T01:19:23.034646Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: Running prove-plonk in docker
+[90m01:20:31[0m [33mDBG[0m constraint system solver done [36mnbConstraints=[0m61167252 [36mtook=[0m24914.874799
+[90m01:23:26[0m [33mDBG[0m prover done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mnbConstraints=[0m61167252 [36mtook=[0m213034.677196
+[90m01:23:26[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m1.84848
+[2m2024-08-02T01:23:27.556113Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: Running verify-plonk in docker
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+[90m01:23:29[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m3.607379
+[2m2024-08-02T01:23:30.248874Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: close [3mtime.busy[0m[2m=[0m247s [3mtime.idle[0m[2m=[0m1.90µs
+Proof generation time: 2392s
+[sp1] plonk bn254 artifacts already seem to exist at /home/ubuntu/.sp1/circuits/plonk_bn254/v1.0.1. if you want to re-download them, delete the directory
+[2m2024-08-02T01:23:30.310389Z[0m [32m INFO[0m Running verify-plonk in docker
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+[90m01:23:32[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m3.971142

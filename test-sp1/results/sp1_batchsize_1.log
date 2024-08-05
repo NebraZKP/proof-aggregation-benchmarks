@@ -1,0 +1,112 @@
+Instance: Snarkify 4 GPU
+ZKVM: SP1, no precompiles, no GPU
+Batch size: 1
+Public input length: 4
+[2m2024-08-02T00:18:24.284483Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T00:18:25.645454Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T00:18:27.015287Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T00:18:28.401013Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T00:18:29.783787Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T00:18:31.177714Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T00:18:32.568894Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T00:18:33.947144Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T00:18:34.194861Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T00:18:37.915435Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T00:18:41.630298Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T00:18:45.372814Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T00:18:49.142498Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T00:18:52.880910Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T00:18:56.656173Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T00:19:37.252630Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T00:21:55.285144Z[0m [32m INFO[0m [1mprove_core[0m: clk = 0 pc = 0x2050d8
+[2m2024-08-02T00:21:59.022278Z[0m [32m INFO[0m [1mprove_core[0m: clk = 10000000 pc = 0x226384
+[2m2024-08-02T00:22:02.715811Z[0m [32m INFO[0m [1mprove_core[0m: clk = 20000000 pc = 0x2168bc
+[2m2024-08-02T00:22:06.447320Z[0m [32m INFO[0m [1mprove_core[0m: clk = 30000000 pc = 0x21de58
+[2m2024-08-02T00:22:10.191165Z[0m [32m INFO[0m [1mprove_core[0m: clk = 40000000 pc = 0x228364
+[2m2024-08-02T00:22:13.930006Z[0m [32m INFO[0m [1mprove_core[0m: clk = 50000000 pc = 0x2712d4
+[2m2024-08-02T00:22:17.665170Z[0m [32m INFO[0m [1mprove_core[0m: clk = 60000000 pc = 0x21cc30
+[2m2024-08-02T00:22:58.256410Z[0m [32m INFO[0m [1mprove_core[0m: clk = 70000000 pc = 0x271434
+[2m2024-08-02T00:29:47.001885Z[0m [32m INFO[0m [1mprove_core[0m: execution report (totals): total_cycles=71551567, total_syscall_cycles=25
+[2m2024-08-02T00:29:47.001939Z[0m [32m INFO[0m [1mprove_core[0m: execution report (opcode counts):
+[2m2024-08-02T00:29:47.001985Z[0m [32m INFO[0m [1mprove_core[0m:   27532665 add
+[2m2024-08-02T00:29:47.001993Z[0m [32m INFO[0m [1mprove_core[0m:   14136556 sltu
+[2m2024-08-02T00:29:47.002000Z[0m [32m INFO[0m [1mprove_core[0m:    7064789 lw
+[2m2024-08-02T00:29:47.002006Z[0m [32m INFO[0m [1mprove_core[0m:    5315199 mul
+[2m2024-08-02T00:29:47.002012Z[0m [32m INFO[0m [1mprove_core[0m:    5085710 mulhu
+[2m2024-08-02T00:29:47.002018Z[0m [32m INFO[0m [1mprove_core[0m:    4481680 sw
+[2m2024-08-02T00:29:47.002024Z[0m [32m INFO[0m [1mprove_core[0m:    3033288 beq
+[2m2024-08-02T00:29:47.002030Z[0m [32m INFO[0m [1mprove_core[0m:    1208128 sub
+[2m2024-08-02T00:29:47.002036Z[0m [32m INFO[0m [1mprove_core[0m:     749955 and
+[2m2024-08-02T00:29:47.002042Z[0m [32m INFO[0m [1mprove_core[0m:     575900 or
+[2m2024-08-02T00:29:47.002048Z[0m [32m INFO[0m [1mprove_core[0m:     493851 bne
+[2m2024-08-02T00:29:47.002054Z[0m [32m INFO[0m [1mprove_core[0m:     298876 jalr
+[2m2024-08-02T00:29:47.002060Z[0m [32m INFO[0m [1mprove_core[0m:     276208 xor
+[2m2024-08-02T00:29:47.002066Z[0m [32m INFO[0m [1mprove_core[0m:     275629 sll
+[2m2024-08-02T00:29:47.002072Z[0m [32m INFO[0m [1mprove_core[0m:     263297 bltu
+[2m2024-08-02T00:29:47.002078Z[0m [32m INFO[0m [1mprove_core[0m:     248225 srl
+[2m2024-08-02T00:29:47.002098Z[0m [32m INFO[0m [1mprove_core[0m:     190642 lbu
+[2m2024-08-02T00:29:47.002104Z[0m [32m INFO[0m [1mprove_core[0m:     160381 auipc
+[2m2024-08-02T00:29:47.002111Z[0m [32m INFO[0m [1mprove_core[0m:     157913 jal
+[2m2024-08-02T00:29:47.002118Z[0m [32m INFO[0m [1mprove_core[0m:       1024 slt
+[2m2024-08-02T00:29:47.002124Z[0m [32m INFO[0m [1mprove_core[0m:       1007 sb
+[2m2024-08-02T00:29:47.002130Z[0m [32m INFO[0m [1mprove_core[0m:        297 bgeu
+[2m2024-08-02T00:29:47.002136Z[0m [32m INFO[0m [1mprove_core[0m:        189 lb
+[2m2024-08-02T00:29:47.002142Z[0m [32m INFO[0m [1mprove_core[0m:        109 blt
+[2m2024-08-02T00:29:47.002147Z[0m [32m INFO[0m [1mprove_core[0m:         25 ecall
+[2m2024-08-02T00:29:47.002153Z[0m [32m INFO[0m [1mprove_core[0m:         16 sh
+[2m2024-08-02T00:29:47.002159Z[0m [32m INFO[0m [1mprove_core[0m:          8 lh
+[2m2024-08-02T00:29:47.002166Z[0m [32m INFO[0m [1mprove_core[0m: execution report (syscall counts):
+[2m2024-08-02T00:29:47.002191Z[0m [32m INFO[0m [1mprove_core[0m:   8 commit
+[2m2024-08-02T00:29:47.002197Z[0m [32m INFO[0m [1mprove_core[0m:   8 commit_deferred_proofs
+[2m2024-08-02T00:29:47.002204Z[0m [32m INFO[0m [1mprove_core[0m:   4 hint_len
+[2m2024-08-02T00:29:47.002210Z[0m [32m INFO[0m [1mprove_core[0m:   4 hint_read
+[2m2024-08-02T00:29:47.002216Z[0m [32m INFO[0m [1mprove_core[0m:   1 halt
+[2m2024-08-02T00:29:47.021858Z[0m [32m INFO[0m [1mprove_core[0m: summary: cycles=71551567, e2e=683.0757819s, khz=104.75, proofSize=32727968
+[2m2024-08-02T00:29:47.028249Z[0m [32m INFO[0m [1mprove_core[0m: close [3mtime.busy[0m[2m=[0m553s [3mtime.idle[0m[2m=[0m131s
+[2m2024-08-02T00:32:12.861496Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m132s [3mtime.idle[0m[2m=[0m3.65µs
+[2m2024-08-02T00:32:17.220738Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m99.5s [3mtime.idle[0m[2m=[0m2.74µs
+[2m2024-08-02T00:32:18.526830Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m101s [3mtime.idle[0m[2m=[0m4.20µs
+[2m2024-08-02T00:32:20.112789Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m102s [3mtime.idle[0m[2m=[0m4.38µs
+[2m2024-08-02T00:32:20.952891Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m103s [3mtime.idle[0m[2m=[0m4.44µs
+[2m2024-08-02T00:32:21.062751Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m103s [3mtime.idle[0m[2m=[0m2.90µs
+[2m2024-08-02T00:32:22.897886Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m105s [3mtime.idle[0m[2m=[0m3.73µs
+[2m2024-08-02T00:32:24.297686Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m107s [3mtime.idle[0m[2m=[0m4.55µs
+[2m2024-08-02T00:32:24.642857Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m107s [3mtime.idle[0m[2m=[0m4.01µs
+[2m2024-08-02T00:32:26.286250Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m87.0s [3mtime.idle[0m[2m=[0m3.85µs
+[2m2024-08-02T00:33:48.541008Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m69.3s [3mtime.idle[0m[2m=[0m3.98µs
+[2m2024-08-02T00:33:51.854249Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m54.7s [3mtime.idle[0m[2m=[0m3.54µs
+[2m2024-08-02T00:33:53.451823Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m56.3s [3mtime.idle[0m[2m=[0m3.39µs
+[2m2024-08-02T00:33:53.770021Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m56.6s [3mtime.idle[0m[2m=[0m4.38µs
+[2m2024-08-02T00:33:53.774507Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m56.7s [3mtime.idle[0m[2m=[0m4.16µs
+[2m2024-08-02T00:34:34.345223Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m34.2s [3mtime.idle[0m[2m=[0m3.80µs
+[2m2024-08-02T00:34:44.003549Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m37.5s [3mtime.idle[0m[2m=[0m2.81µs
+[2m2024-08-02T00:34:46.955682Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m32.9s [3mtime.idle[0m[2m=[0m4.40µs
+[2m2024-08-02T00:35:15.638950Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m22.7s [3mtime.idle[0m[2m=[0m3.52µs
+[2m2024-08-02T00:35:27.037873Z[0m [32m INFO[0m [1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m28.0s [3mtime.idle[0m[2m=[0m2.96µs
+[2m2024-08-02T00:36:03.607072Z[0m [32m INFO[0m [1mcompress[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m25.9s [3mtime.idle[0m[2m=[0m3.93µs
+[2m2024-08-02T00:36:03.623017Z[0m [32m INFO[0m [1mcompress[0m: close [3mtime.busy[0m[2m=[0m377s [3mtime.idle[0m[2m=[0m2.49µs
+[2m2024-08-02T00:36:58.978898Z[0m [32m INFO[0m [1mshrink[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m37.6s [3mtime.idle[0m[2m=[0m3.23µs
+[2m2024-08-02T00:36:58.991086Z[0m [32m INFO[0m [1mshrink[0m: close [3mtime.busy[0m[2m=[0m55.3s [3mtime.idle[0m[2m=[0m2.81µs
+[2m2024-08-02T00:39:20.633615Z[0m [32m INFO[0m [1mwrap_bn254[0m:[1mprove_shards[0m: close [3mtime.busy[0m[2m=[0m88.3s [3mtime.idle[0m[2m=[0m3.55µs
+[2m2024-08-02T00:39:20.833590Z[0m [32m INFO[0m [1mwrap_bn254[0m:[1mverify[0m: close [3mtime.busy[0m[2m=[0m200ms [3mtime.idle[0m[2m=[0m1.96µs
+[2m2024-08-02T00:39:20.833608Z[0m [32m INFO[0m [1mwrap_bn254[0m: Proof verified successfully
+[2m2024-08-02T00:39:20.833614Z[0m [32m INFO[0m [1mwrap_bn254[0m: Wrapping successful
+[2m2024-08-02T00:39:20.834179Z[0m [32m INFO[0m [1mwrap_bn254[0m: close [3mtime.busy[0m[2m=[0m142s [3mtime.idle[0m[2m=[0m1.84µs
+[sp1] plonk bn254 artifacts already seem to exist at /home/ubuntu/.sp1/circuits/plonk_bn254/v1.0.1. if you want to re-download them, delete the directory
+[2m2024-08-02T00:39:20.902434Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: Running prove-plonk in docker
+[90m00:40:30[0m [33mDBG[0m constraint system solver done [36mnbConstraints=[0m61167252 [36mtook=[0m24949.067057
+[90m00:43:25[0m [33mDBG[0m prover done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mnbConstraints=[0m61167252 [36mtook=[0m213008.491716
+[90m00:43:25[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m1.569211
+[2m2024-08-02T00:43:26.685733Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: Running verify-plonk in docker
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+[90m00:43:28[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m3.450093
+[2m2024-08-02T00:43:29.312592Z[0m [32m INFO[0m [1mwrap_plonk_bn254[0m: close [3mtime.busy[0m[2m=[0m248s [3mtime.idle[0m[2m=[0m2.18µs
+Proof generation time: 1505s
+[sp1] plonk bn254 artifacts already seem to exist at /home/ubuntu/.sp1/circuits/plonk_bn254/v1.0.1. if you want to re-download them, delete the directory
+[2m2024-08-02T00:43:29.365329Z[0m [32m INFO[0m Running verify-plonk in docker
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+ignoring uninitialized slice: Vars []frontend.Variable
+[90m00:43:31[0m [33mDBG[0m verifier done [36mbackend=[0mplonk [36mcurve=[0mbn254 [36mtook=[0m4.104564
