@@ -1,0 +1,8 @@
+ZKVM: RiscZero, no precompiles
+Batch size: 1
+[2m2024-08-02T12:13:32.636826Z[0m [32m INFO[0m [1mexecutor[0m[2m:[0m [2mrisc0_zkvm::host::server::exec::executor[0m[2m:[0m execution time: 4.333085015s
+[2m2024-08-02T12:13:32.636857Z[0m [32m INFO[0m [1mexecutor[0m[2m:[0m [2mrisc0_zkvm::host::server::session[0m[2m:[0m number of segments: 86
+[2m2024-08-02T12:13:32.636859Z[0m [32m INFO[0m [1mexecutor[0m[2m:[0m [2mrisc0_zkvm::host::server::session[0m[2m:[0m total cycles: 89653248
+[2m2024-08-02T12:13:32.636861Z[0m [32m INFO[0m [1mexecutor[0m[2m:[0m [2mrisc0_zkvm::host::server::session[0m[2m:[0m user cycles: 73128746
+Proof generation time: 3243s
+Proof saved to file: ./_test_data/risc0_agg_proof_batch_size_1.g16

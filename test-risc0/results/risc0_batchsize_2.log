@@ -1,0 +1,4 @@
+ZKVM: RiscZero, no precompiles
+Batch size: 2
+Proof generation time: 6283s
+Proof saved to file: ./_test_data/risc0_agg_proof_batch_size_2.g16
